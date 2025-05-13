@@ -58,6 +58,7 @@ http-server
 - HTML5
 - CSS3
 - JavaScript
+- TypeScript
 - [Three.js](https://threejs.org/) - 3D graphics library
 - [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/) - Animation library
 
